@@ -1,5 +1,5 @@
 class Dog 
-  def inital
+  def initialize()
 end
 
 kanye = Dog.new("Kanye")
